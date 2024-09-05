@@ -19,6 +19,7 @@ Framework: Flutter
 Programming Language: Dart
 AI/NLP: Integrates with AI and NLP APIs for voice recognition and processing
 Installation
+
 Clone the repository: git clone https://github.com/Premiiitn/AiVoiceAssistant.git
 Navigate to the project directory: cd aivoiceassistant
 Install dependencies: flutter pub get
